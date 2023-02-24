@@ -1,4 +1,3 @@
-# GraphDeeSmartContract ![GitHub stars](https://img.shields.io/github/stars/Messi-Q/GraphDeeSmartContract.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Messi-Q/GraphDeeSmartContract.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/Messi-Q/GraphDeeSmartContract.svg?color=blue&style=plastic)
 
 This repo is a python implementation of smart contract vulnerability detection using graph neural networks (DR-GCN).
 
@@ -64,5 +63,5 @@ The train data after normalization:
 
 
 ### Reference
-1. A fraction of the code reuses the code of [graph_unet](https://github.com/bknyaz/graph_nn).
+1. A fraction of the code reuses the code of [graph_unet](https://github.com/8KLancer/graph_blockchain).
 2. Thomas N. Kipf, Max Welling, Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017.
